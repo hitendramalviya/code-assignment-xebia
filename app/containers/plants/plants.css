@@ -1,0 +1,98 @@
+.PlantSearch .lander {
+    padding: 80px 0;
+    text-align: center;
+}
+
+.PlantSearch .lander h1 {
+    font-family: "Open Sans", sans-serif;
+    font-weight: 600;
+}
+
+.PlantSearch .lander p {
+    color: #999;
+}
+
+.PlantSearch .lander div {
+    padding-top: 20px;
+}
+
+.PlantSearch .lander div a:first-child {
+    margin-right: 20px;
+}
+
+.PlantSearch .plants h4 {
+    font-family: "Open Sans", sans-serif;
+    font-weight: 600;
+    overflow: hidden;
+    line-height: 1.5;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+}
+
+.PlantSearch .plants p {
+    color: #666;
+}
+
+#search {
+    position: relative;
+    font-size: 18px;
+    padding-top: 40px;
+    margin: -35px auto 10px;
+}
+
+#search label {
+    position: absolute;
+    left: 17px;
+    top: 51px;
+}
+
+#search #search-input, #search .hint {
+    padding-left: 43px;
+    padding-right: 43px;
+    border-radius: 4px;
+}
+
+.list-group-item {
+    cursor: pointer;
+}
+
+.list-group-item:hover {
+    color: #000;
+    background-color: skyblue;
+}
+
+.list-group-item.scale-1 .list-group-item-heading {
+    font-size: 90%;
+}
+.list-group-item.scale-2 .list-group-item-heading {
+    font-size: 100%;
+}
+.list-group-item.scale-3 .list-group-item-heading {
+    font-size: 110%;
+}
+.list-group-item.scale-4 .list-group-item-heading {
+    font-size: 120%;
+}
+.list-group-item.scale-5 .list-group-item-heading {
+    font-size: 130%;
+}
+.list-group-item.scale-6 .list-group-item-heading {
+    font-size: 140%;
+}
+.list-group-item.scale-7 .list-group-item-heading {
+    font-size: 150%;
+}
+.list-group-item.scale-8 .list-group-item-heading {
+    font-size: 160%;
+}
+.list-group-item.scale-9 .list-group-item-heading {
+    font-size: 170%;
+}
+.list-group-item.scale-10 .list-group-item-heading {
+    font-size: 180%;
+}
+
+.list-group-item-text p span {
+    margin-right: 10px;
+}
+
